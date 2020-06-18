@@ -83,3 +83,5 @@ Arvak will only evolve at the end of the combat while you're not ridding him.
 If Arvak "die" he will be sent back to the Soul Cairn and you won't be able to summon him for 24h ingame hours.
 You can check Arvak's stats and traded souls at his shrine in Soul Cairn.
 Arvak will not evolve if he is KO'ed in battle. You will have to wait until he recovered and trap one more soul.
+
+Not everything works as intended yet. The evolution system should be fine but switching Arvak between range and melee isn't fully functionnal yet.
