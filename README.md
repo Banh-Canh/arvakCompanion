@@ -1,5 +1,10 @@
 # arvakCompanion
 
+Requirements
+
+Updated Skyrim SE
+Phorce's "The Elder Scrolls V Rewritten" 's textures & meshes. (.esp not required)
+
 Small Description
 
 Arvak Companion overhaul the Summon Arvak's Spell. It adds a progression system and allow Arvak to "evolve", including new abilities, stats, and appearance. 
