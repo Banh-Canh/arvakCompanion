@@ -3,7 +3,7 @@
 Small Description
 
 Arvak Companion overhaul the Summon Arvak's Spell. It adds a progression system and allow Arvak to "evolve", including new abilities, stats, and appearance. 
-It is meant to be compatible and only edit 2 vanilla record. It doesn't include a horse following system.
+It is meant to be compatible and only edit 2 vanilla record.
 
 Features
 
