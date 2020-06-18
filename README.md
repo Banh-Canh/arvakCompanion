@@ -3,7 +3,8 @@
 Requirements
 
 Updated Skyrim SE
-Phorce's "The Elder Scrolls V Rewritten" 's textures & meshes. (.esp not required)
+Phorce's "The Elder Scrolls V Rewritten" 's textures & meshes (.esp not required).
+Creation kit's scripts sources (data/scripts/source/x.psc)
 
 Small Description
 
