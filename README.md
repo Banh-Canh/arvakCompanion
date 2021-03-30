@@ -1,6 +1,6 @@
-# arvakCompanion
+## ArvakCompanion
 
-Requirements
+## Requirements
 
 Updated Skyrim SE
 
@@ -8,24 +8,25 @@ Phorce's "The Elder Scrolls V Rewritten" 's textures & meshes (.esp not required
 
 Creation kit's scripts sources (data/scripts/source/x.psc)
 
-Small Description
+## Small Description
 
 Arvak Companion overhaul the Summon Arvak's Spell. It adds a progression system and allow Arvak to "evolve", including new abilities, stats, and appearance. 
 It is meant to be compatible and only edit 2 vanilla record.
 
-Features
+## Features
 
-The spell "Summon Arvak" is now toggleable: while active, Arvak is summoned near you and while inactive/on dispell, Arvak is sent back to the Soul Cairn.
+- The spell "Summon Arvak" is now toggleable: while active, Arvak is summoned near you and while inactive/on dispell, Arvak is sent back to the Soul Cairn.
 Arvak level with player. Has custom combat style & class.
 
-Arvak now cast the spell "Soul Trap" each time he use his -weak- attack, and depending on his progression he can stagger on his -strong- attack.
+- Arvak now cast the spell "Soul Trap" each time he use his -weak- attack, and depending on his progression he can stagger on his -strong- attack.
 Each time you capture a soul marked by Arvak's Soul Trap you earn the soul gem and please the Ideal Masters, allowing Arvak to regain/gain some power.
-At some point, Arvak will be allowed to cast, from a certain distance, different purple colored vanilla destruction spell. (note: no projectile will be shown).
+
+- At some point, Arvak will be allowed to cast, from a certain distance, different purple colored vanilla destruction spell. (note: no projectile will be shown).
 You will be able to toggle between melee and ranged mode thanks to an added power telling Arvak to briefly summon his old rider for you (talk to him).
 Arvak can "evolve" and slightly change appearance using edited meshes & textures from Phorce's "The Elder Scrolls V Rewritten". (with permission, thanks!)
 Should be compatible with anything as it only edit 2 rarely modded vanilla record (obviously no other Arvak mod is compatible).
 
-Overview of the Evolution System
+## Overview of the Evolution System
 
 Firstly, I want to warn you that this is my first mod. And that I'm unsure about the lore friendly-ness but I did go through the trouble to read -a little bit- about it and I hope I don't break too much of it..
 
@@ -84,7 +85,7 @@ STAGE 6
 150 =< Arvak's captured soul
 Arvak: +250 health & stamina, +70 speed, both melee are stronger, -strong- attack can knockdown and has less cooldown.	
 	
-Note: 
+## Note: 
 
 Keep in mind that Arvak will still level with you. I believe his spell are affected by player's perk but it is untested.
 Arvak will only evolve at the end of the combat while you're not ridding him.
